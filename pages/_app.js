@@ -1,3 +1,5 @@
+import "@fortawesome/fontawesome-svg-core/styles.css";
+import "bootstrap/dist/css/bootstrap.css";
 import Layout from "../components/Layout";
 import "../styles/globals.css";
 
